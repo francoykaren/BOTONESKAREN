@@ -1,0 +1,334 @@
+.container {
+    text-align: center;
+}
+.btn1 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #e1bee7;
+    color: #f48fb1;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn1:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #ab47bc; 
+    color: #ec407a; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: rotate(50deg);
+    }
+.btn2 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #d81b60;
+    color: #880e4f;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn2:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #e53935; 
+    color: #b71c1c; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: rotate(180deg);
+    }
+.btn3 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #ff4081;
+    color: #c51162;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn3:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #ff5252; 
+    color: #ff8a80; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: matrix(2);
+    }
+.btn4 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #ede7f6;
+    color: #9575cd;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn4:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #ce93d8; 
+    color: #f3e5f5; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translate(-80px);
+    }
+.btn5 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #9575cd;
+    color: #673ab7;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn5:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #9c27b0 ; 
+    color: #ba68c8 ; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translate(80px);
+    }
+.btn6 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #46387e;
+    color: #381d6e;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn6:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #a5a5dc; 
+    color: #121955; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: scale(4, 0.8);
+    }
+.btn7 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #2987af;
+    color: #b2c7e3;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn7:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #445b6e; 
+    color: #17d5f2; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translate(95px) rotate(0.5turn);
+    }
+.btn8 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #67d7b0;
+    color: #117568;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn8:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #90de8d; 
+    color: #0bcc35; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: skew(35deg, 15deg);
+    }
+.btn9 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #115909;
+    color: #a8d3b1;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn9:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #93f807; 
+    color: #646d44; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: skew(-15deg, -40deg);
+    }
+.btn10 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #c9fb41;
+    color: #e4f7ae;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn10:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #b6b964; 
+    color: #f6f20a; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: skew(25deg, 12deg) rotate(300deg);
+    }
+.btn11 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #e3a619;
+    color: #d9be7a;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn11:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #eb670f; 
+    color: #f9ba76; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translate(50px) rotate(90deg);
+    }
+.btn12 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #f88b69;
+    color: #f60f0b;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn12:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #561006; 
+    color: #904e41; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translate(-50px) rotate(-90deg);
+    }
+.btn13 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #701230;
+    color: #a76a7e;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn13:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #478bbc; 
+    color: #035dee; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: scale3d(2.5, 1.2, 0.3);
+    }
+.btn14 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #796f70;
+    color: #060606;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn14:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #111011; 
+    color: #eeebec; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: skewY(1.07rad);
+    }
+.btn15 {
+    border: none;
+    padding: 10px 5px;
+    background-color: #f4f804;
+    color: #ffe896;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    }
+
+.btn15:hover {
+    border: none; 
+    padding: 10px; 
+    background-color: #0be1c8; 
+    color: #619091; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+    transform: translateX(10px) rotate(10deg) translateY(5px);
+    }
+    
